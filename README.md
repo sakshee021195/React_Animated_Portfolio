@@ -1,8 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#React Animated Portfolio 
+This project is a fully responsive home page built using Bootstrap for layout and styling, 
+AOS (Animate On Scroll) library for scroll animations, and 
+React Icons to enhance the UI for contact details.
+The application is developed in a component-based structure using ReactJS.
